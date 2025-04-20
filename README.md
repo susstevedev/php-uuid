@@ -1,3 +1,3 @@
 # php-uuid
-UUIDv7 generator in PHP.\
-**Note**: This script requires PHP **4.2** and above to run.
+UUIDv7 generator in PHP.
+This script requires at least PHP 4.2 to run.
